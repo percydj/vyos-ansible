@@ -1,5 +1,5 @@
 - name: Create a sandbox instance
-  hosts: vyos_hosts
+  hosts: vyos-servers
   gather_facts: True
   connection: local
 
